@@ -1,13 +1,28 @@
 [
   {
-    "id": 1,
     "name": "wpln",
     "url": "https://wpln.streamguys1.com/wplnfm.mp3"
   },
   {
-    "id": 2,
     "name": "lightning-100",
     "url": "https://22113.live.streamtheworld.com/WRLTFM.mp3"
+  },
+  {
+    "name": "kexp",
+    "url": "https://live-aacplus-64.streamguys1.com/kexp64-tunein.aac"
+  },
+  {
+    "name": "kcrw",
+    "url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_tunein"
+  },
+  {
+    "name": "kmox",
+    "url": "https://16643.live.streamtheworld.com/KMOXAMAAC_SC"
   }
+
 ]
 
+
+
+
+https://16643.live.streamtheworld.com/KMOXAMAAC_SC
