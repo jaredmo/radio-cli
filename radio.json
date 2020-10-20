@@ -1,22 +1,34 @@
 [
   {
-    "name": "wpln",
+    "name": "wpln-nashville",
     "url": "https://wpln.streamguys1.com/wplnfm.mp3"
   },
   {
-    "name": "lightning-100",
+    "name": "bbc-world-service",
+    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws"
+  },
+  {
+    "name": "twit-live",
+    "url": "https://new.twit.am/radio/8000/listen"
+  },
+  {
+    "name": "lightning-100-nashville",
     "url": "https://22113.live.streamtheworld.com/WRLTFM.mp3"
   },
   {
-    "name": "kexp",
+    "name": "kexp-seattle",
     "url": "https://live-aacplus-64.streamguys1.com/kexp64-tunein.aac"
   },
   {
-    "name": "kcrw",
+    "name": "kcrw-eclectic24",
     "url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_tunein"
   },
   {
-    "name": "kmox",
+    "name": "kmox-st-louis",
     "url": "https://16643.live.streamtheworld.com/KMOXAMAAC_SC"
-  }
+  },
+  {
+    "name": "espn-radio",
+    "url": "https://prod-35-185-249-107.wostreaming.net/espn-network-48"
+  }  
 ]
