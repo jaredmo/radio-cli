@@ -8,6 +8,10 @@
     "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws"
   },
   {
+    "name": "wnxp",
+    "url": "https://wpln.streamguys1.com/wnxpfm.mp3"
+  },
+  {
     "name": "twit-live",
     "url": "https://new.twit.am/radio/8000/listen"
   },
@@ -30,5 +34,5 @@
   {
     "name": "espn-radio",
     "url": "https://prod-35-185-249-107.wostreaming.net/espn-network-48"
-  }  
+  }
 ]
