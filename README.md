@@ -1,2 +1,2 @@
 # radio-cli
-Webstream selection shell scipt
+Webstream selection shell script
