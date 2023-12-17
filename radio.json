@@ -1,38 +1,42 @@
 [
   {
-    "name": "wpln-nashville",
-    "url": "https://wpln.streamguys1.com/wplnfm.mp3"
+      "name": "wpln-nashville",
+      "url": "https://wpln.streamguys1.com/wplnfm.aac"
   },
   {
-    "name": "bbc-world-service",
-    "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws"
+      "name": "wpln-nashville-classical",
+      "url": "https://wpln.streamguys1.com/wfclfm.aac"
   },
   {
-    "name": "wnxp-nashville",
-    "url": "https://wpln.streamguys1.com/wnxpfm.mp3"
+      "name": "bbc-world-service",
+      "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws"
   },
   {
-    "name": "twit-live",
-    "url": "https://new.twit.am/radio/8000/listen"
+      "name": "wnxp-nashville",
+      "url": "https://wpln.streamguys1.com/wnxpfm.aac"
   },
   {
-    "name": "lightning-100-nashville",
-    "url": "https://22113.live.streamtheworld.com/WRLTFM.mp3"
+      "name": "lightning-100-nashville",
+      "url": "https://18683.live.streamtheworld.com/WRLTFMAAC.aac"
   },
   {
-    "name": "kexp-seattle",
-    "url": "https://live-aacplus-64.streamguys1.com/kexp64-tunein.aac"
+      "name": "twit-live",
+      "url": "https://new.twit.am/radio/8000/listen"
   },
   {
-    "name": "kcrw-eclectic24",
-    "url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_tunein"
+      "name": "kexp-seattle",
+      "url": "https://kexp.streamguys1.com/kexp160.aac"
   },
   {
-    "name": "kmox-st-louis",
-    "url": "https://16643.live.streamtheworld.com/KMOXAMAAC_SC"
+      "name": "kcrw-eclectic24",
+      "url": "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_tunein"
   },
   {
-    "name": "espn-radio",
-    "url": "https://prod-35-185-249-107.wostreaming.net/espn-network-48"
+      "name": "kmox-st-louis",
+      "url": "https://16643.live.streamtheworld.com/KMOXAMAAC_SC"
+  },
+  {
+      "name": "espn-radio",
+      "url": "https://prod-35-185-249-107.wostreaming.net/espn-network-48"
   }
 ]
